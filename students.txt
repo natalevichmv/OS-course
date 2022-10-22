@@ -1,2 +1,4 @@
 0. Наталевич Михаил Викторович
    https://github.com/natalevichmv/OS-course
+1. Лагун Мария Геннадьевна
+   https://github.com/mmarryll/Threads
