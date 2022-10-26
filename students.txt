@@ -16,9 +16,12 @@
 
 8.
 
-9.
+9. Сивограков Кирилл Владимирович
+   https://github.com/KirSivogr
+10. Слук Евгений 
+    https://github.com/jen4432
 
-10.Слук Евгений https://github.com/jen4432
+11. Статкевич Захар Дмитриевич
+    https://github.com/GabellaJhonson/operation-systems
 
-11.
 
