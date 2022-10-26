@@ -20,5 +20,7 @@
    https://github.com/KirSivogr
 10.
 
-11.
+11.Статкевич Захар Дмитриевич
+https://github.com/GabellaJhonson/operation-systems
+
 
