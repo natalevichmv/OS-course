@@ -2,3 +2,6 @@
    https://github.com/natalevichmv/OS-course
 1. Лагун Мария Геннадьевна
    https://github.com/mmarryll/Threads
+2. Некрашевич Светлана Анатольевна
+   https://github.com/lananek
+
