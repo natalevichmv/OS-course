@@ -8,4 +8,5 @@
 4. Поик следующего простого числа в два потока - producer-consumer
 5. Read-write lock
 ### std::atomic
-6. Lock-free stack
+6. Spinlock
+7. Lock-free stack
