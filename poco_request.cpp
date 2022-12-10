@@ -20,10 +20,7 @@ int main() {
     }
 
     // create request
-    Poco::Net::HTTPRequest request(
-        Poco::Net::HTTPRequest::HTTP_GET,
-        path,
-        Poco::Net::HTTPMessage::HTTP_1_1);
+    Poco::Net::HTTPRequest request(Poco::Net::HTTPRequest::HTTP_GET, path);
     session.sendRequest(request);
 
     // receive response
