@@ -19,7 +19,7 @@
 ### CMake
 8. См. задачу [cmake](https://github.com/natalevichmv/OS-course/tree/main/cmake)
 9. POCO + CMake
-    - Скачать библиотеку POCO с гитхаба и настроить проект CMake, чтобы запустилась программа в файле ``poco_request.cpp``
+    - Скачать библиотеку POCO с гитхаба и настроить проект CMake, чтобы запустилась программа в файле ``hello-http/poco_request.cpp``
 ### HTTP
 10. См. задачу [hello-http](https://github.com/natalevichmv/OS-course/tree/main/hello-http)
 
