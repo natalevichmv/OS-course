@@ -2,6 +2,25 @@
    https://github.com/natalevichmv/OS-course
 1. Лагун Мария Геннадьевна
    https://github.com/mmarryll/Threads
-2. Некрашевич Светлана Анатольевна
+2. Лакман Дарья Вадимовна
+   https://github.com/dashuleshka/Operation-Systems.git
+3. Некрашевич Светлана Анатольевна
    https://github.com/lananek
+4.
+
+5. Новиков Руслан Витальевич
+   https://github.com/NRVcoder
+
+6.
+
+7.
+
+8.
+
+9. Сивограков Кирилл Владимирович
+   https://github.com/KirSivogr
+10. Слук Евгений 
+    https://github.com/jen4432
+11. Статкевич Захар Дмитриевич
+    https://github.com/GabellaJhonson/operation-system
 
