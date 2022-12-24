@@ -11,6 +11,7 @@
     - Поиск следующего простого числа в два потока. Первый поток считает ответ, второй выводит ответ на экран.
 5. Read-write lock
     - Интерфейс как в файле rw_lock.h, только реализовать с помощью condition_variable
+    - [Описание](https://en.wikipedia.org/wiki/Readers–writer_lock#Using_a_condition_variable_and_a_mutex)
 ### std::atomic
 6. Spinlock
     - Реализуем мьютекс через атомики, это было на семинаре
